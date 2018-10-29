@@ -1,0 +1,6 @@
+framework module YSD {
+  umbrella header "YSD-umbrella.h"
+
+  export *
+  module * { export * }
+}

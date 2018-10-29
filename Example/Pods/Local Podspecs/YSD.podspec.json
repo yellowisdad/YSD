@@ -1,0 +1,22 @@
+{
+  "name": "YSD",
+  "version": "0.1.0",
+  "summary": "A short description of YSD.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/yellowisdad/YSD",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "yellowisdad": "yellowisdad@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/yellowisdad/YSD.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YSD/Classes/**/*"
+}
