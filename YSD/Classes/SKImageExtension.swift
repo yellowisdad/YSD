@@ -13,3 +13,4 @@ extension UIImageView {
         self.layer.cornerRadius = self.layer.frame.size.width / 2
         self.clipsToBounds = true
 }
+}
